@@ -11,7 +11,7 @@
 
 // console.log(incr);
 // console.log(decr);
-// console.log(2 * 4 == 8);
+// console.log(2 * 4 == 8); 
 
 const isCheck = false;
 isClose = false;
